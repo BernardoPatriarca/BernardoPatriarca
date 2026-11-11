@@ -1,0 +1,10 @@
+export { hero } from './hero.mjs';
+export { band } from './band.mjs';
+export { about } from './about.mjs';
+export { learn } from './learn.mjs';
+export { stack } from './stack.mjs';
+export { path } from './path.mjs';
+export { terminal } from './terminal.mjs';
+export { works, zela, catalogo, multi, crm } from './works.mjs';
+export { contact, chipSite, chipLinkedin, chipMail, chipWhats, chipInsta, chipRepos, footer } from './contact.mjs';
+export { github } from './github.mjs';
